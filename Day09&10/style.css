@@ -1,0 +1,12 @@
+.hero {
+    background: linear-gradient(to right, #111827, #1f2933);
+}
+
+.product-card {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.product-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
