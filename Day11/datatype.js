@@ -1,0 +1,10 @@
+let number = 10;          
+let text = "JavaScript";  
+let isLearning = true;    
+let value = null;         
+let x;                   
+console.log(typeof number);
+console.log(typeof text);
+console.log(typeof isLearning);
+console.log(typeof value);
+console.log(typeof x);
